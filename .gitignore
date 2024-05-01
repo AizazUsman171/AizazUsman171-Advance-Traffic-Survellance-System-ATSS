@@ -3,3 +3,6 @@ sample
 sample.mp4
 __pycache__
 .idea
+add_missing_data.py
+video_processing.py
+visualize.py
